@@ -1,0 +1,23 @@
+.container{
+    background-color:rgb(82, 218, 236);
+    padding: 30px;
+
+}
+
+#flex{
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(10, 132, 148);
+}
+
+#flex_contato{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(10, 132, 148);
+    padding: 30px;
+    
+}
+
+#fundo{
+    background-color: rgb(35, 64, 158);
+}
