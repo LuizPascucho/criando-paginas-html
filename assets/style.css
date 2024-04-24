@@ -11,8 +11,8 @@
 }
 
 #flex_contato{
-    display: flex;
-    flex-direction: column;
+   /* display: flex;
+    flex-direction: column; */
     background-color: rgb(10, 132, 148);
     padding: 30px;
     
